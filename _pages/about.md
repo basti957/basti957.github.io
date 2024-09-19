@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 ---
 I am an Research Assistant in the School of Economics and Business at the University of Chile. My fields of interest are Applied Microeconomics and Econometrics, with a focus on labor and development economics. Anyway I am genuinely curious, and if the research agenda holds relevance for public policy, I am highly interested.
 
-Currently, I am working with Professor Damian Clarke on topics related to Microeconometrics and Machine Learning under the affiliation of the "Millennium Institute for Research in Market Imperfections and Public Policy" (MIPP). Specifically we are focusing on the fusion of modern statistical inference (ML) and causal inference methods in applied empirical research.
+Currently, I am working with Professor Damian Clarke on topics related to Microeconometrics and Machine Learning (ML) under the affiliation of the "Millennium Institute for Research in Market Imperfections and Public Policy" (MIPP). Specifically we are focusing on the fusion of modern statistical inference (ML) and causal inference methods in applied empirical research.
 
 You can find my [CV][cv] here.
 
