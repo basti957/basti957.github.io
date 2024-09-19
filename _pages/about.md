@@ -22,5 +22,5 @@ Currently, I am working with Professor Damian Clarke on topics related to Microe
 
 You can find my [CV][cv] here.
 
-[cv]: https://basti957.github.io/assets/pdf/resume.pdf
+[cv]: https://basti957.github.io/cv/resume.pdf
 
